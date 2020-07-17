@@ -1,5 +1,8 @@
 # imgur-aFbhm backup
-https://imgur.com/a/aFbhm
+Backed up here for reference in case imgur link expires. Original link: https://imgur.com/a/aFbhm
+
+#GBA SP headphone mod
+Uploaded Oct 12 2016
 
 ![](1%20-%20JcI5gWH.jpg)
 
