@@ -33,6 +33,13 @@ Preview | Links and info
 ------------ | -------------
 ![](imgur-aFbhm/1%20-%20JcI5gWH.jpg) | [imgur album aFbhm](https://imgur.com/a/aFbhm), [Github backup](imgur-aFbhm/)
 
+## In the hinge
+Proof of concept! Might affect ergonomics!
+
+Preview | Links and info
+------------ | -------------
+![](discord-sammy.sam/image5.jpg) | [discord post](https://discordapp.com/channels/246604458744610816/332487777986019337/733445195001102468), [Github backup](discord-sammy.sam/)
+
 # Other GBA SP Mods
 * [Mods - Game Boy Subreddit Wiki](https://www.reddit.com/r/GameBoy/wiki/mods)
 * [GBA SP USB-C Mod](https://github.com/rorosaurus/gba-sp-usb-c)
