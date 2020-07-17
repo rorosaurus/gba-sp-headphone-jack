@@ -3,7 +3,7 @@ Backed up here for reference in case imgur link expires. Original link: https://
 
 Previously sold on [Tindie](https://www.tindie.com/products/hidarite/headphone-jack-pcb-for-game-boy-advance-sp/)
 
-#Untitled
+# Untitled
 Uploaded Apr 25 2019
 
 ![](1%20-%20A47pTCe.jpg)

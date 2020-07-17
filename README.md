@@ -5,8 +5,8 @@
 
 Preview | Links and info
 ------------ | -------------
-1. [hackaday writeup](https://hackaday.io/project/173427-gba-sp-headphone-jack-mod), [Github backup]()
-2. [imgur post](https://imgur.com/a/da826qH), [Github backup]()
+![](hackaday-173427-gba-sp-headphone-jack-mod-thumbnail.jpg) | [hackaday writeup](https://hackaday.io/project/173427-gba-sp-headphone-jack-mod)
+![](imgur-da826qH/1%20-%209PAMmfi.jpg)| [imgur post](https://imgur.com/a/da826qH), [Github backup](imgur-da826qH/)
 
 ## Inside top screen
 
@@ -18,7 +18,7 @@ Preview | Links and info
 
 Preview | Links and info
 ------------ | -------------
-![](imgur-mqhpRvp/1%20-%20A47pTCe.jpg) | [imgur post](https://imgur.com/a/mqhpRvp), [Github backup]()
+![](imgur-mqhpRvp/8%20-%20LQ98QbA.jpg) | [imgur post](https://imgur.com/a/mqhpRvp), [Github backup](imgur-mqhpRvp/)
 ![](youtube-MOywVfRrYTg-thumbnail.png) | [The Retro Future Youtube](https://www.youtube.com/watch?v=MOywVfRrYTg)
 
 ## Between L and R buttons
