@@ -34,7 +34,7 @@ Preview | Links and info
 ![](imgur-aFbhm/1%20-%20JcI5gWH.jpg) | [imgur album aFbhm](https://imgur.com/a/aFbhm), [Github backup](imgur-aFbhm/)
 
 ## In the hinge
-Proof of concept! Might affect ergonomics!
+Might reduce hinge strength/lifespan. Might affect ergonomics!
 
 Preview | Links and info
 ------------ | -------------
