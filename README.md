@@ -32,3 +32,7 @@ Cuts into the battery compartment - requires a smaller battery.
 Preview | Links and info
 ------------ | -------------
 ![](imgur-aFbhm/1%20-%20JcI5gWH.jpg) | [imgur album aFbhm](https://imgur.com/a/aFbhm), [Github backup](imgur-aFbhm/)
+
+# Other GBA SP Mods
+* [Mods - Game Boy Subreddit Wiki](https://www.reddit.com/r/GameBoy/wiki/mods)
+* [GBA SP USB-C Mod](https://github.com/rorosaurus/gba-sp-usb-c)
