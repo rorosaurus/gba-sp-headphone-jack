@@ -48,6 +48,14 @@ Preview | Links and info
 ------------ | -------------
 ![](youtube-5_2sGFCsaPw-thumbnail.png) | [666Gothicgirl Youtube](https://www.youtube.com/watch?v=5_2sGFCsaPw), , [reddit post](https://www.reddit.com/r/Gameboy/comments/e62yc5/complete_my_cover_for_the_usb_c_port_that_i_build/f9qq91v/), [imgur album ruIvKuk](https://imgur.com/a/ruIvKuk), [Github backup](imgur-ruIvKuk/)
 
+## Bluetooth audio
+Hey, that's not a headphone jack at all!
+
+Preview | Links and info
+------------ | -------------
+![](gameboy-subreddit-eg937m/image3.jpg) | [reddit post](https://www.reddit.com/r/Gameboy/comments/eg937m/gameboy_advance_sp_bluetooth_audio_mod/),[additional reddit post](https://www.reddit.com/r/Gameboy/comments/gc5k7x/gba_with_bluetooth_audio/), [Github backup](gameboy-subreddit-eg937m/)
+
+
 # Other GBA SP Mods
 * [Mods - Game Boy Subreddit Wiki](https://www.reddit.com/r/GameBoy/wiki/mods)
 * [GBA SP USB-C Mod](https://github.com/rorosaurus/gba-sp-usb-c)
