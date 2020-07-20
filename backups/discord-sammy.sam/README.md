@@ -40,6 +40,7 @@ The jack placement is ok but not great, there are better placement options. So t
 
 
 https://www.instagram.com/p/CCzr_ZOlZCR/
+
 ![](instagram.jpg)
 
 I modded a GBA SP with a headphone jack. Which isn’t new, but I hadn’t seen anyone attempt to put it in the hinge before. The right hinge is still OEM, the left hinge becomes the jack wrapped in a styrene tube. Then the wires are just routed through the rest of the hinge assembly and down to the PCB with the ribbon cable. You lose the locking feature on the left hinge, but the screen still locks into place when open and closed with the remaining right OEM. I get a lot of questions about how the hinge feels, and it’s pretty good, though you can feel the difference obviously since only one of the hinges now clicks.
