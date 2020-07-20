@@ -39,7 +39,7 @@ Might reduce hinge strength/lifespan. Might affect ergonomics!
 
 Preview | Links and info
 ------------ | -------------
-![](thumbnails/discord-sammy.sam.jpg) | [discord post](https://discordapp.com/channels/246604458744610816/332487777986019337/733445195001102468), [Github backup](backups/discord-sammy.sam/)
+![](thumbnails/discord-sammy.sam.jpg) | [discord post](https://discordapp.com/channels/246604458744610816/332487777986019337/733445195001102468), [Instagram post](https://www.instagram.com/p/CCzr_ZOlZCR/), [Github backup](backups/discord-sammy.sam/)
 
 ## USB-C dongle headphone jack
 I personally don't want to need a dongle, but it's awesome to know this is an option!
