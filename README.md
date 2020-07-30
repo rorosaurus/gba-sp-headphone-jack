@@ -9,8 +9,9 @@ Might affect ergonomics! I personally have [no issue](under-power-LED-ergonomics
 Preview | Links and info
 ------------ | -------------
 ![](thumbnails/hackaday-173427-gba-sp-headphone-jack-mod.jpg) | [hackaday writeup](https://hackaday.io/project/173427-gba-sp-headphone-jack-mod)
-![](thumbnails/imgur-da826qH.jpg)| [imgur post](https://imgur.com/a/da826qH), [Github backup](backups/imgur-da826qH/)
-![](thumbnails/discord-orangeglo.png)| [discord post](https://discordapp.com/channels/246604458744610816/332487777986019337/734842804538179667), [Github backup](backups/discord-orangeglo.png)
+![](thumbnails/imgur-da826qH.jpg) | [imgur post](https://imgur.com/a/da826qH), [Github backup](backups/imgur-da826qH/)
+![](thumbnails/discord-orangeglo.png) | [discord post](https://discordapp.com/channels/246604458744610816/332487777986019337/734842804538179667), [Github backup](backups/discord-orangeglo.png)
+![](thumbnails/youtube-W3H48VH9VDw.png) | [Youtube video](https://www.youtube.com/watch?v=W3H48VH9VDw)
 
 ## Inside top screen
 Requires IPS screen mod to free up enough space.
