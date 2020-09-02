@@ -27,6 +27,7 @@ Preview | Links and info
 ------------ | -------------
 ![](thumbnails/imgur-mqhpRvp.jpg) | [imgur post](https://imgur.com/a/mqhpRvp), [Github backup](backups/imgur-mqhpRvp/)
 ![](thumbnails/youtube-MOywVfRrYTg.png) | [The Retro Future Youtube](https://www.youtube.com/watch?v=MOywVfRrYTg)
+![](thumbnails/imgur-xWTdjy3.jpg) | [imgur post](https://imgur.com/gallery/xWTdjy3), [Github backup](backups/imgur-xWTdjy3/)
 
 ## Between L and R buttons
 Cuts into the battery compartment - requires a smaller battery.
