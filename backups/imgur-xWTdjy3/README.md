@@ -5,7 +5,7 @@ Backed up here for reference in case imgur link expires. Original link: https://
 
 Uploaded Sept 2nd 2020
 
-![](1%20-%20KLHH0sr.jpg)
+![](1%20-%20KLHH0sr.png)
 
 ![](2%20-%2057tu0gP.jpg)
 
