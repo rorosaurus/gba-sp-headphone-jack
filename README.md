@@ -55,7 +55,7 @@ Hey, that's not a headphone jack at all!
 
 Preview | Links and info
 ------------ | -------------
-![](thumbnails/gameboy-subreddit-eg937m.jpg) | [reddit post](https://www.reddit.com/r/Gameboy/comments/eg937m/gameboy_advance_sp_bluetooth_audio_mod/), [additional reddit post](https://www.reddit.com/r/Gameboy/comments/gc5k7x/gba_with_bluetooth_audio/), [Github backup](backups/gameboy-subreddit-eg937m/)
+![](thumbnails/gameboy-subreddit-eg937m.jpg) | [reddit post](https://www.reddit.com/r/Gameboy/comments/eg937m/gameboy_advance_sp_bluetooth_audio_mod/), [additional reddit post](https://www.reddit.com/r/Gameboy/comments/gc5k7x/gba_with_bluetooth_audio/), [Github backup](backups/gameboy-subreddit-eg937m/), [personal website writeup](https://mmax.tech/?p=3895&lang=en), [writeup archive](https://web.archive.org/web/20201025163111/https://mmax.tech/?p=3895&lang=en)
 
 
 # Other GBA SP Mods
